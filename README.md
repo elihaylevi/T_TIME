@@ -54,7 +54,7 @@ T_TIME/
 ### Installation
 
 ```bash
-git clone https://github.com/ElihaiLevi/T_TIME.git
+git clone https://github.com/elihaylevi/T_TIME.git
 cd T_TIME
 pip install -r requirements.txt
 ```
