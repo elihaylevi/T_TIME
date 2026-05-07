@@ -29,8 +29,8 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 # ==========================================
 # 1. CONFIGURATION & PATHS
 # ==========================================
-TRAIN_CSV = "/home/dsi/levieli8/15kfeatures_to_prediction/train_combined_matrix_pruned_95.csv"
-TEST_CSV  = "/home/dsi/levieli8/15kfeatures_to_prediction/test_combined_matrix_pruned_95.csv"
+TRAIN_CSV = "data/train_combined_matrix_pruned_95.csv"
+TEST_CSV  = "data/test_combined_matrix_pruned_95.csv"
 TARGET    = "Age"
 
 # Canonical metadata names for consistency

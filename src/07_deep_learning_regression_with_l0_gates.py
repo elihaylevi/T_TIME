@@ -31,7 +31,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 # ==========================================
 # 1. GLOBAL CONFIGURATION
 # ==========================================
-DATA_CSV    = "/home/dsi/levieli8/15kfeatures_to_prediction/train_combined_matrix_pruned_95.csv"
+DATA_CSV    = "data/train_combined_matrix_pruned_95.csv"
 TARGET      = "Age"
 DROP_COLS   = ["sample name", "Biological Sex"]
 
