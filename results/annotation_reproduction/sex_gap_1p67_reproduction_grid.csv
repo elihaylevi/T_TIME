@@ -1,0 +1,49 @@
+dataset,filter,n,n_male,n_female,adjustment,gap_male_minus_female,perm_P_5000_seed42,welch_P,matches_gap_1.67,matches_P_0.015
+data/test_preds.csv (ELI original),none,817,393,424,raw residual (no age adjustment),2.1158,0.0012,0.002,False,False
+data/test_preds.csv (ELI original),none,817,393,424,AAR vs cohort baseline line,1.7058,0.0064,0.0072,False,False
+data/test_preds.csv (ELI original),none,817,393,424,AAR vs FEMALE baseline line,1.6739,0.0072,0.0084,True,False
+data/test_preds.csv (ELI original),none,817,393,424,ANCOVA sex coef (resid ~ age + sex),1.7111,,0.0072,False,False
+data/test_preds.csv (ELI original),drop top 5% |resid|,776,374,402,raw residual (no age adjustment),1.6651,0.0044,0.0037,True,False
+data/test_preds.csv (ELI original),drop top 5% |resid|,776,374,402,AAR vs cohort baseline line,1.4114,0.0106,0.0093,False,False
+data/test_preds.csv (ELI original),drop top 5% |resid|,776,374,402,AAR vs FEMALE baseline line,1.3982,0.0108,0.01,False,False
+data/test_preds.csv (ELI original),drop top 5% |resid|,776,374,402,ANCOVA sex coef (resid ~ age + sex),1.4146,,0.0094,False,False
+data/test_preds.csv (ELI original),drop top 10% |resid|,735,357,378,raw residual (no age adjustment),1.2876,0.0144,0.0158,False,True
+data/test_preds.csv (ELI original),drop top 10% |resid|,735,357,378,AAR vs cohort baseline line,1.0842,0.0288,0.0327,False,False
+data/test_preds.csv (ELI original),drop top 10% |resid|,735,357,378,AAR vs FEMALE baseline line,1.0766,0.0304,0.0339,False,False
+data/test_preds.csv (ELI original),drop top 10% |resid|,735,357,378,ANCOVA sex coef (resid ~ age + sex),1.0865,,0.0327,False,False
+data/test_preds.csv (ELI original),drop top 20% |resid|,653,322,331,raw residual (no age adjustment),1.0626,0.0212,0.024,False,False
+data/test_preds.csv (ELI original),drop top 20% |resid|,653,322,331,AAR vs cohort baseline line,0.9395,0.0372,0.0395,False,False
+data/test_preds.csv (ELI original),drop top 20% |resid|,653,322,331,AAR vs FEMALE baseline line,0.9366,0.038,0.0401,False,False
+data/test_preds.csv (ELI original),drop top 20% |resid|,653,322,331,ANCOVA sex coef (resid ~ age + sex),0.9411,,0.0394,False,False
+fig2new/test_preds.csv (CUR retrain),none,817,393,424,raw residual (no age adjustment),2.175,0.001,0.0015,False,False
+fig2new/test_preds.csv (CUR retrain),none,817,393,424,AAR vs cohort baseline line,1.7507,0.0052,0.0055,False,False
+fig2new/test_preds.csv (CUR retrain),none,817,393,424,AAR vs FEMALE baseline line,1.7219,0.006,0.0064,False,False
+fig2new/test_preds.csv (CUR retrain),none,817,393,424,ANCOVA sex coef (resid ~ age + sex),1.7562,,0.0054,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 5% |resid|,776,373,403,raw residual (no age adjustment),1.8422,0.0022,0.0014,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 5% |resid|,776,373,403,AAR vs cohort baseline line,1.5511,0.0046,0.0041,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 5% |resid|,776,373,403,AAR vs FEMALE baseline line,1.5331,0.0054,0.0046,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 5% |resid|,776,373,403,ANCOVA sex coef (resid ~ age + sex),1.5552,,0.0042,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 10% |resid|,735,358,377,raw residual (no age adjustment),1.3741,0.0138,0.0103,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 10% |resid|,735,358,377,AAR vs cohort baseline line,1.195,0.023,0.0192,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 10% |resid|,735,358,377,AAR vs FEMALE baseline line,1.1901,0.0232,0.0198,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 10% |resid|,735,358,377,ANCOVA sex coef (resid ~ age + sex),1.197,,0.0192,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 20% |resid|,653,315,338,raw residual (no age adjustment),0.8917,0.0586,0.0589,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 20% |resid|,653,315,338,AAR vs cohort baseline line,0.765,0.0922,0.0926,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 20% |resid|,653,315,338,AAR vs FEMALE baseline line,0.7455,0.1046,0.1016,False,False
+fig2new/test_preds.csv (CUR retrain),drop top 20% |resid|,653,315,338,ANCOVA sex coef (resid ~ age + sex),0.7662,,0.0924,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,none,735,361,374,raw residual (no age adjustment),1.8207,0.0042,0.0043,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,none,735,361,374,AAR vs cohort baseline line,1.6393,0.0084,0.0069,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,none,735,361,374,AAR vs FEMALE baseline line,1.6164,0.0088,0.0078,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,none,735,361,374,ANCOVA sex coef (resid ~ age + sex),1.6412,,0.007,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 5% |resid|,698,350,348,raw residual (no age adjustment),1.1888,0.0532,0.0513,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 5% |resid|,698,350,348,AAR vs cohort baseline line,1.0734,0.0678,0.0668,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 5% |resid|,698,350,348,AAR vs FEMALE baseline line,1.0595,0.0712,0.0706,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 5% |resid|,698,350,348,ANCOVA sex coef (resid ~ age + sex),1.0741,,0.0669,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 10% |resid|,661,334,327,raw residual (no age adjustment),0.9323,0.1134,0.1143,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 10% |resid|,661,334,327,AAR vs cohort baseline line,0.8767,0.1256,0.1259,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 10% |resid|,661,334,327,AAR vs FEMALE baseline line,0.8689,0.1272,0.1296,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 10% |resid|,661,334,327,ANCOVA sex coef (resid ~ age + sex),0.8769,,0.1261,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 20% |resid|,588,302,286,raw residual (no age adjustment),0.6371,0.2456,0.2455,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 20% |resid|,588,302,286,AAR vs cohort baseline line,0.5776,0.2809,0.2847,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 20% |resid|,588,302,286,AAR vs FEMALE baseline line,0.5626,0.2919,0.2979,False,False
+eli_sex_correction/primary_sex_residuals_robust.csv,drop top 20% |resid|,588,302,286,ANCOVA sex coef (resid ~ age + sex),0.578,,0.2846,False,False

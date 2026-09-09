@@ -1,0 +1,8 @@
+stage,cohort,n,notes
+(a) Wasserstein age-scoring,discovery TRAIN only,2453,"covid+Vo, train donors; n_elements floor=123=5% of 2453 confirms no test ages"
+(b) model train,discovery TRAIN,2453,same as (a)
+(c) internal test,discovery TEST,818,"held out; 0 SAMPLE-ID overlap with train. Donor-level: identity recoverable for 702/818 (85.8%, incl. 100% of Vo); within that, 19 donors / 20 samples (2.4%, all ImmuneCODE) also appear in train. Removing them shifts MAE by 0.003 yr and R2 by 0.001."
+(d) external (zero-shot),Emerson-2017,494 (with age),frozen model; NO fine-tuning in our analysis
+(e) external recalibration slice,Emerson-2017,98,disjoint from (f)
+(f) external eval,Emerson-2017,396,disjoint from (e)
+(g) clinical AAR,"covid, out-of-train",256 (17 htn / 13 auto / 221 healthy),not in discovery train; QC>=200k

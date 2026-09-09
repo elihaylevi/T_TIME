@@ -1,0 +1,116 @@
+{
+  "bootstrap": {
+    "n": 2000,
+    "seed": 42,
+    "n_test": 818,
+    "note": "resample indices shared across models -> paired comparison exact"
+  },
+  "per_model": {
+    "elasticnet_features": {
+      "MAE": 9.798,
+      "MAE_CI": [
+        9.131,
+        10.543
+      ],
+      "R2": 0.555,
+      "R2_CI": [
+        0.37,
+        0.68
+      ]
+    },
+    "ridge_features": {
+      "MAE": 11.154,
+      "MAE_CI": [
+        10.273,
+        12.212
+      ],
+      "R2": 0.297,
+      "R2_CI": [
+        -0.198,
+        0.582
+      ]
+    },
+    "MLP (data/test_preds.csv, ELI)": {
+      "MAE": 7.499,
+      "MAE_CI": [
+        7.07,
+        7.937
+      ],
+      "R2": 0.78,
+      "R2_CI": [
+        0.745,
+        0.813
+      ]
+    },
+    "MLP (fig2new/test_preds.csv)": {
+      "MAE": 7.475,
+      "MAE_CI": [
+        7.047,
+        7.899
+      ],
+      "R2": 0.782,
+      "R2_CI": [
+        0.749,
+        0.814
+      ]
+    }
+  },
+  "paired": {
+    "MLP (data/test_preds.csv, ELI) vs elasticnet_features": {
+      "dMAE": -2.297,
+      "dMAE_CI": [
+        -2.987,
+        -1.714
+      ],
+      "dR2": 0.226,
+      "dR2_CI": [
+        0.108,
+        0.4
+      ],
+      "frac_replicates_baseline_wins_MAE": 0.0,
+      "frac_replicates_baseline_wins_R2": 0.0
+    },
+    "MLP (data/test_preds.csv, ELI) vs ridge_features": {
+      "dMAE": -3.656,
+      "dMAE_CI": [
+        -4.707,
+        -2.813
+      ],
+      "dR2": 0.489,
+      "dR2_CI": [
+        0.202,
+        0.97
+      ],
+      "frac_replicates_baseline_wins_MAE": 0.0,
+      "frac_replicates_baseline_wins_R2": 0.0
+    },
+    "MLP (fig2new/test_preds.csv) vs elasticnet_features": {
+      "dMAE": -2.321,
+      "dMAE_CI": [
+        -3.008,
+        -1.738
+      ],
+      "dR2": 0.228,
+      "dR2_CI": [
+        0.11,
+        0.403
+      ],
+      "frac_replicates_baseline_wins_MAE": 0.0,
+      "frac_replicates_baseline_wins_R2": 0.0
+    },
+    "MLP (fig2new/test_preds.csv) vs ridge_features": {
+      "dMAE": -3.681,
+      "dMAE_CI": [
+        -4.706,
+        -2.843
+      ],
+      "dR2": 0.491,
+      "dR2_CI": [
+        0.206,
+        0.975
+      ],
+      "frac_replicates_baseline_wins_MAE": 0.0,
+      "frac_replicates_baseline_wins_R2": 0.0
+    }
+  }
+}

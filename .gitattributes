@@ -1,0 +1,33 @@
+# Normalise line endings for text files on commit; check out native on each platform.
+# The tree is currently mixed (64 LF files, 11 CRLF), so this settles it once.
+* text=auto
+
+# --- Explicitly text, with a fixed ending -----------------------------------
+*.py      text diff=python
+*.ipynb   text
+*.md      text
+*.txt     text
+*.json    text
+*.csv     text
+*.sbatch  text eol=lf
+*.sh      text eol=lf
+.gitignore      text
+.gitattributes  text
+LICENSE         text
+
+# --- Binary: never normalise, never diff as text ----------------------------
+# Every binary extension present in this repository.
+*.gz      -text
+*.csv.gz  -text
+*.zip     -text
+*.pdf     -text
+*.docx    -text
+*.xlsx    -text
+*.png     -text
+*.jpg     -text
+*.jpeg    -text
+*.npz     -text
+*.npy     -text
+*.pkl     -text
+*.h5      -text
+*.pt      -text

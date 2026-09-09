@@ -1,0 +1,10 @@
+species,n,median_signed_wasserstein
+Neoantigen,251,-0.9737
+HIV,480,-0.7366
+Influenza,2324,-0.6436
+CMV,3566,-0.5466
+EBV,1419,-0.5219
+SARS-CoV-2,915,-0.3384
+T1D,343,-0.1969
+Cancer/Self,1032,0.1907
+TB,2257,0.3455

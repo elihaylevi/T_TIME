@@ -1,0 +1,32 @@
+{
+  "ridge_features": {
+    "MAE": 11.154,
+    "MAE_CI": [
+      10.273,
+      12.212
+    ],
+    "R2": 0.297,
+    "R2_CI": [
+      -0.198,
+      0.582
+    ]
+  },
+  "elasticnet_features": {
+    "MAE": 9.798,
+    "MAE_CI": [
+      9.131,
+      10.543
+    ],
+    "R2": 0.555,
+    "R2_CI": [
+      0.37,
+      0.68
+    ]
+  },
+  "_n": {
+    "train": 2453,
+    "test": 818,
+    "n_features": 5460
+  },
+  "_note": "diversity_ridge / diversity_gbm not re-run: require raw repertoire TSVs at config.TRAIN_DIR / config.TEST_DIR (workspace not present in this checkout)"
+}

@@ -1,0 +1,354 @@
+{
+  "_description": "Headline results rebuilt from artefacts already on disk. Every key carries its own 'source'. No model was trained and no raw repertoire was read to produce this file.",
+  "_generator": "analysis/revision/07_build_numbers_revision.py",
+  "_lineage": "analysis/revision/01-04 (models M1/M3, leakage-safe clinical AAR)",
+  "_supersedes": "results/numbers.json for external_validation, antigen_age_bias, age_acceleration and sex_difference. That file is left in place and archived outside this repository, at ~/Downloads/ttime_archive/docs_internal/archive/numbers_original_submission.json.",
+  "_training_sensitivity": "The values below come from the shipped GPU run of scripts 01/02/04 and are NOT replaced by any later re-run. Torch training is not bitwise reproducible across backends: a CPU re-run on 2026-09-08 moved primary MAE 7.475 -> 7.534, the primary sex gap 1.374 -> 1.530, the CMV effect +2.762 -> +3.576, and the hypertension AAR -3.249 -> -2.393 with its BH-adjusted P going 0.017 -> 0.091. Treat every trained-model figure here as one specific run, not a value a re-run will land on. Discussed as a limitation in the manuscript, Methods 4.8; measured in the archived internal changelog, addendum G4 (~/Downloads/ttime_archive/docs_internal/CHANGELOG_RESTRUCTURE.md).",
+  "internal_holdout": {
+    "source": "results/revision/test_preds.csv (analysis/revision/01_train_primary_model.py, model M1)",
+    "n_test": 818,
+    "MAE": 7.475,
+    "RMSE": 9.771,
+    "R2": 0.782,
+    "by_sex": {
+      "Female": {
+        "n": 424,
+        "mae": 7.523,
+        "r2": 0.779
+      },
+      "Male": {
+        "n": 393,
+        "mae": 7.42,
+        "r2": 0.784
+      }
+    },
+    "n_sex_unknown": 1,
+    "sex_unknown_note": "excluded from by_sex: copy of incov043-bl-3_tcrb (Biological Sex is blank in the source CSV)"
+  },
+  "cohort_qc": {
+    "source": "results/tables/qc_per_cohort.csv",
+    "raw_repertoires": 4306,
+    "passed_qc_ge_200k_templates": 3778,
+    "excluded_low_depth": 521,
+    "malformed": 7,
+    "per_cohort": {
+      "covid_immunecode": {
+        "ERROR": 1,
+        "EXCLUDED": 481,
+        "SUCCESS": 932,
+        "All": 1414
+      },
+      "unknown": {
+        "ERROR": 2,
+        "EXCLUDED": 3,
+        "SUCCESS": 300,
+        "All": 305
+      },
+      "vo_gittelman": {
+        "ERROR": 4,
+        "EXCLUDED": 37,
+        "SUCCESS": 2546,
+        "All": 2587
+      }
+    },
+    "train": null,
+    "test": null,
+    "train_test_source": "requires re-run: split_train/test counts come from work/outputs/stage01b_split_report.json (not shipped). results/tables/data_provenance.csv records 2453/818."
+  },
+  "external_validation": {
+    "source": "results/revision/emerson_zeroshot_preds.csv + emerson_recalibrated_persample.csv (analysis/revision/02, model M3)",
+    "cohort": "Emerson 2017",
+    "n": 495,
+    "age_range": [
+      1,
+      74
+    ],
+    "zero_shot_frozen": {
+      "MAE": 9.987,
+      "RMSE": 13.029,
+      "R2": 0.126,
+      "Pearson": 0.728
+    },
+    "calibration_line": {
+      "slope": 0.579,
+      "intercept": 13.221,
+      "source": "OLS of true Age on zero-shot prediction over all 495 samples (diagnostic)"
+    },
+    "affine_recalibration": {
+      "eval_n": 396,
+      "calibration_n": 99,
+      "calibration_n_note": "INFERRED as n_zeroshot - n_eval; the calibration slice itself is not shipped, only the disjoint evaluation slice",
+      "a": 0.5834,
+      "b": 12.5625,
+      "ab_note": "recovered by exact affine fit of y_pred_recal on y_pred_zeroshot (max residual 5.2e-06); a/b are not stored on disk",
+      "MAE": 7.595,
+      "R2": 0.523,
+      "Pearson": 0.724
+    },
+    "note": "Supersedes the deprecated zero-shot figures (MAE 13.521, R2 -0.324) that the archive carries from emerson_zeroshot.py, a script archived outside this repository."
+  },
+  "baselines": {
+    "source": "results/annotation_reproduction/mlp_vs_baselines_paired_bootstrap.json",
+    "bootstrap": {
+      "n": 2000,
+      "seed": 42,
+      "n_test": 818,
+      "note": "resample indices shared across models -> paired comparison exact"
+    },
+    "neural_network": {
+      "MAE": 7.475,
+      "MAE_CI": [
+        7.047,
+        7.899
+      ],
+      "R2": 0.782,
+      "R2_CI": [
+        0.749,
+        0.814
+      ],
+      "source": "MLP (fig2new/test_preds.csv) == results/revision/test_preds.csv"
+    },
+    "elasticnet_features": {
+      "MAE": 9.798,
+      "MAE_CI": [
+        9.131,
+        10.543
+      ],
+      "R2": 0.555,
+      "R2_CI": [
+        0.37,
+        0.68
+      ]
+    },
+    "ridge_features": {
+      "MAE": 11.154,
+      "MAE_CI": [
+        10.273,
+        12.212
+      ],
+      "R2": 0.297,
+      "R2_CI": [
+        -0.198,
+        0.582
+      ]
+    },
+    "paired_vs_mlp": {
+      "MLP (data/test_preds.csv, ELI) vs elasticnet_features": {
+        "dMAE": -2.297,
+        "dMAE_CI": [
+          -2.987,
+          -1.714
+        ],
+        "dR2": 0.226,
+        "dR2_CI": [
+          0.108,
+          0.4
+        ],
+        "frac_replicates_baseline_wins_MAE": 0.0,
+        "frac_replicates_baseline_wins_R2": 0.0
+      },
+      "MLP (data/test_preds.csv, ELI) vs ridge_features": {
+        "dMAE": -3.656,
+        "dMAE_CI": [
+          -4.707,
+          -2.813
+        ],
+        "dR2": 0.489,
+        "dR2_CI": [
+          0.202,
+          0.97
+        ],
+        "frac_replicates_baseline_wins_MAE": 0.0,
+        "frac_replicates_baseline_wins_R2": 0.0
+      },
+      "MLP (fig2new/test_preds.csv) vs elasticnet_features": {
+        "dMAE": -2.321,
+        "dMAE_CI": [
+          -3.008,
+          -1.738
+        ],
+        "dR2": 0.228,
+        "dR2_CI": [
+          0.11,
+          0.403
+        ],
+        "frac_replicates_baseline_wins_MAE": 0.0,
+        "frac_replicates_baseline_wins_R2": 0.0
+      },
+      "MLP (fig2new/test_preds.csv) vs ridge_features": {
+        "dMAE": -3.681,
+        "dMAE_CI": [
+          -4.706,
+          -2.843
+        ],
+        "dR2": 0.491,
+        "dR2_CI": [
+          0.206,
+          0.975
+        ],
+        "frac_replicates_baseline_wins_MAE": 0.0,
+        "frac_replicates_baseline_wins_R2": 0.0
+      }
+    },
+    "diversity_ridge": null,
+    "diversity_gbm": null,
+    "diversity_source": "requires re-run: pipeline/baselines.py needs the raw repertoire TSVs at config.TRAIN_DIR / config.TEST_DIR to compute Shannon / inverse-Simpson / clonality / Gini / richness. Not shipped."
+  },
+  "hla_restriction": {
+    "source": "results/tables/hla_restriction.csv",
+    "median_signed_wasserstein_by_restriction": {
+      "HLA-A*11": -5.087,
+      "HLA-A*02": -4.877,
+      "HLA-A*03": -4.877,
+      "HLA-B*07": 3.989
+    },
+    "n_by_restriction": {
+      "HLA-A*11": 12,
+      "HLA-A*02": 97,
+      "HLA-A*03": 93,
+      "HLA-B*07": 9
+    },
+    "note": "Age association is largely consistent across common HLA-A restrictions."
+  },
+  "antigen_age_bias": {
+    "source": "results/annotation_reproduction/species_age_bias_spectrum_verified.csv",
+    "reference": "per annotated clonotype row of the Figure 4 merged table (VDJdb + McPAS + TRAIT)",
+    "median_signed_wasserstein": {
+      "Neoantigen": -0.9737,
+      "HIV": -0.7366,
+      "Influenza": -0.6436,
+      "CMV": -0.5466,
+      "EBV": -0.5219,
+      "SARS-CoV-2": -0.3384,
+      "T1D": -0.1969,
+      "Cancer/Self": 0.1907,
+      "TB": 0.3455
+    },
+    "n_by_species": {
+      "Neoantigen": 251,
+      "HIV": 480,
+      "Influenza": 2324,
+      "CMV": 3566,
+      "EBV": 1419,
+      "SARS-CoV-2": 915,
+      "T1D": 343,
+      "Cancer/Self": 1032,
+      "TB": 2257
+    },
+    "note": "Supersedes results/tables/antigen_age_bias.csv (7 categories, per unique clonotype, all negative). This lineage has 9 species, includes T1D, and puts Cancer/Self and TB on the old-skewed side."
+  },
+  "sex_difference": {
+    "source": "results/revision/gap{1,2,3,3b}*.csv (analysis/revision/03_sex_gap_analysis.py)",
+    "convention": "male minus female, years; all sets already have the top-10% |residual| filter applied",
+    "primary_all": {
+      "gap_yr": 1.3741,
+      "welch_p": 0.0103,
+      "n_male": 358,
+      "n_female": 377,
+      "n": 735,
+      "source": "gap1_primary_full.csv (centered residual)"
+    },
+    "primary_healthy": {
+      "gap_yr": 1.7791,
+      "welch_p": 0.0033,
+      "n_male": 281,
+      "n_female": 280,
+      "n": 561,
+      "source": "gap3b_healthy_broad.csv (centered residual)"
+    },
+    "primary_covid": {
+      "gap_yr": 0.2144,
+      "welch_p": 0.8517,
+      "n_male": 77,
+      "n_female": 97,
+      "n": 174,
+      "source": "gap3_covid_broad.csv (centered residual)"
+    },
+    "external_recalibrated": {
+      "gap_yr": 0.7604,
+      "welch_p": 0.3402,
+      "n_male": 171,
+      "n_female": 185,
+      "n": 356,
+      "source": "gap2_external_recalibrated.csv (recalibrated residual)"
+    },
+    "external_zeroshot": {
+      "gap_yr": -0.5982,
+      "welch_p": 0.6242,
+      "n_male": 197,
+      "n_female": 199,
+      "n": 396,
+      "source": "emerson_recalibrated_persample.csv, y_pred_zeroshot - Age on the 396-sample evaluation slice only (not all zero-shot samples)"
+    },
+    "diagnostics": {
+      "KS_p": 0.0056,
+      "Levene_p": 0.8427,
+      "age_x_sex_interaction_p": 0.7391,
+      "source": "computed on gap1_primary_full.csv"
+    },
+    "note": "The deprecated lineage reported combined_offset 0.86 and an external ZERO-SHOT gap of -0.1; this lineage reports the primary set as a whole and an external gap on the recalibrated scale. The quantities differ - do not compare the two files field by field."
+  },
+  "age_acceleration": {
+    "hypertension": {
+      "n": 66,
+      "AAR": -3.249,
+      "perm_p": 0.0058,
+      "perm_p_BH": 0.0174
+    },
+    "autoimmune": {
+      "n": 22,
+      "AAR": 2.08,
+      "perm_p": 0.2835,
+      "perm_p_BH": 0.4253
+    },
+    "cancer": {
+      "n": 22,
+      "AAR": 1.438,
+      "perm_p": 0.4615,
+      "perm_p_BH": 0.4615
+    },
+    "source": "results/revision/{clinical_aar_persample_NEW.csv, baseline_reference.csv, baseline_params.json} (analysis/revision/04_clinical_aar_pipeline.py)",
+    "design": "AAR = predicted age - robust baseline line fitted on the leakage-free test_clean pool (n=762, slope=0.8659, intercept=7.9168); 5,000-permutation null with RNG(42); Benjamini-Hochberg across the three categories",
+    "n_clinical_cohort": 244,
+    "age_sex_adjusted": null,
+    "age_sex_adjusted_source": "requires re-run: script 04 does not compute an age/sex-adjusted AAR. The -3.376 / -0.464 / 0.103 values in numbers.json come from clinical_aar.py - archived outside this repository - a different model and a different category definition",
+    "category_definition_note": "word-list + boolean-flag definition shared with script 05; yields n~66/22/22. numbers.json's 17/13/8 uses the older boolean-flag-only definition - see 04's docstring, step 6",
+    "cmv_seropositivity_note": "moved to its own top-level key; the serostatus source data/emerson_metadata_expanded.csv was located on 2026-09-08 and the contrast is now reproducible - see analysis/revision/08_cmv_seropositivity.py"
+  },
+  "cmv_seropositivity": {
+    "source": "data/emerson_metadata_expanded.csv ('Virus Diseases') joined on Sample Name minus '.tsv' to results/revision/emerson_recalibrated_persample.csv (analysis/revision/02)",
+    "generator": "analysis/revision/08_cmv_seropositivity.py",
+    "cohort": "Emerson 2017",
+    "specification": "OLS residual_recal ~ 1 + Age + Biological Sex + CMV; the reported effect is the CMV coefficient",
+    "n": 395,
+    "n_pos": 186,
+    "n_neg": 209,
+    "age_sex_adjusted_yr": 2.7622,
+    "age_sex_adjusted_p": 0.00012102,
+    "unadjusted_gap_yr": 0.1563,
+    "unadjusted_welch_p": 0.87123,
+    "zero_shot_full_set": {
+      "n": 494,
+      "n_pos": 244,
+      "n_neg": 250,
+      "unadjusted_gap_yr": 3.0062,
+      "unadjusted_welch_p": 0.005501,
+      "age_sex_adjusted_yr": 3.6587,
+      "age_sex_adjusted_p": 0.00091033
+    },
+    "caveat": "Without the age/sex adjustment the CMV gap on the recalibrated slice is not significant (see unadjusted_* above): the affine recalibration removes the offset the raw contrast rode on. Quote the adjusted figure only, and say it is adjusted.",
+    "note_vs_published": "The manuscript's '+2.75 yr, P=0.0038, n=493' is not a single specification: +2.75 matches this script's adjusted coefficient on the 395-sample recalibrated slice, while n=493 matches the 494-sample zero-shot set (gap +3.006). Direction and significance reproduce in every specification tested; the exact triplet does not."
+  },
+  "age_association_scoring": {
+    "value": null,
+    "source": "requires re-run: pipeline/stage02_wasserstein.py -> work/outputs/stage02_report_{train,combined}.json. Needs the downsampled repertoire directories; not shipped."
+  },
+  "vj_usage": {
+    "value": null,
+    "source": "requires re-run: pipeline/vj_usage.py -> work/outputs/vj_usage.json. Needs the raw repertoire TSVs (V/J calls); not shipped."
+  },
+  "physicochemical_classifier": {
+    "value": null,
+    "source": "requires re-run: pipeline/mait_classifier.py -> work/outputs/mait_classifier.json. Its only input, data/significant_tcrs_signed_wasserstein.csv, IS shipped, so this one is cheap to regenerate - it just was not run in this pass."
+  }
+}

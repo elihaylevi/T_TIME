@@ -1,0 +1,30 @@
+{
+  "source": "data/emerson_metadata_expanded.csv ('Virus Diseases') joined on Sample Name minus '.tsv' to results/revision/emerson_recalibrated_persample.csv (analysis/revision/02)",
+  "generator": "analysis/revision/08_cmv_seropositivity.py",
+  "cohort": "Emerson 2017",
+  "specification": "OLS residual_recal ~ 1 + Age + Biological Sex + CMV; the reported effect is the CMV coefficient",
+  "name_match": {
+    "recalibrated": 1.0,
+    "zero_shot": 1.0
+  },
+  "primary": {
+    "n": 395,
+    "n_pos": 186,
+    "n_neg": 209,
+    "unadjusted_gap_yr": 0.1563,
+    "unadjusted_welch_p": 0.87123,
+    "age_sex_adjusted_yr": 2.7622,
+    "age_sex_adjusted_p": 0.00012102
+  },
+  "zero_shot_full_set": {
+    "n": 494,
+    "n_pos": 244,
+    "n_neg": 250,
+    "unadjusted_gap_yr": 3.0062,
+    "unadjusted_welch_p": 0.005501,
+    "age_sex_adjusted_yr": 3.6587,
+    "age_sex_adjusted_p": 0.00091033
+  },
+  "caveat": "Without the age/sex adjustment the CMV gap on the recalibrated slice is not significant (see unadjusted_* above): the affine recalibration removes the offset the raw contrast rode on. Quote the adjusted figure only, and say it is adjusted.",
+  "note_vs_published": "The manuscript's '+2.75 yr, P=0.0038, n=493' is not a single specification: +2.75 matches this script's adjusted coefficient on the 395-sample recalibrated slice, while n=493 matches the 494-sample zero-shot set (gap +3.006). Direction and significance reproduce in every specification tested; the exact triplet does not."
+}

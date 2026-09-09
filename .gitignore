@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+work/
+workspace/
+raw_staging/
+logs/
+
+# build / upload bundles (e.g. analysis_revision_for_colab.zip) — regenerate, don't commit
+*.zip
+
+# historical code + manuscript material live outside the repo, in
+# ~/Downloads/ttime_archive/ (see its ARCHIVE_README.md). Safety net in case a
+# copy is restored locally for inspection.
+legacy/

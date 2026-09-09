@@ -1,0 +1,787 @@
+Sample Name,Total Templates,Disease state,Age,Ethnic Group,HLA MHC class I,Subject,Virus Diseases,Biological Sex,Racial Group,Tissue Source,Age (Range)
+P00076.tsv,0.0,,48,Unknown Ethnicity,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+Keck0076_MC1.tsv,565423.0,,27,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,25-29 Years
+P00402.tsv,627648.0,,42,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00655.tsv,276700.0,,,Unknown Ethnicity,HLA-B*51,,,,Unknown racial group,gDNA,
+Keck0067_MC1.tsv,326492.0,,28,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,25-29 Years
+P00181.tsv,382869.0,,37,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00334.tsv,195520.0,Inactive,47,Unknown Ethnicity,HLA-B*14,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00043.tsv,427369.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00580.tsv,246418.0,,54,Unknown Ethnicity,HLA-B*15,,Cytomegalovirus -,Male,Unknown racial group,gDNA,50-54 Years
+P00636.tsv,281029.0,,42,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00233.tsv,438506.0,Inactive,23,Unknown Ethnicity,HLA-B*40,Cohort 3,Cytomegalovirus -,Female,Unknown racial group,gDNA,20-24 Years
+P00131.tsv,168718.0,,,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,
+P00411.tsv,0.0,,46,Non-Hispanic or Latino,HLA-B*52,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00452.tsv,502752.0,,43,Non-Hispanic or Latino,HLA-B*45,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00637.tsv,259815.0,,55,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00208.tsv,251119.0,,,Unknown Ethnicity,HLA-B*61,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00409.tsv,248332.0,Inactive,51,Non-Hispanic or Latino,HLA-B*62,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00356.tsv,406678.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00246.tsv,314136.0,,37,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,35-60 Years
+P00210.tsv,280786.0,,54,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00159.tsv,271102.0,,27,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,25-29 Years
+P00063.tsv,0.0,,37,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00365.tsv,131002.0,,31,Non-Hispanic or Latino,HLA-B*45,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00094.tsv,391026.0,,13,Non-Hispanic or Latino,HLA-B*55,,Cytomegalovirus +,Female,Caucasian,gDNA,12-18 Years (Adolescence)
+Keck0021_MC1.tsv,301733.0,Inactive,26,Non-Hispanic or Latino,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00140.tsv,447955.0,,34,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00306.tsv,324069.0,Inactive,65,Non-Hispanic or Latino,HLA-B*52,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,65-69 Years
+P00113.tsv,359867.0,,61,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00157.tsv,0.0,,55,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00209.tsv,302078.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00148.tsv,0.0,,42,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+P00558.tsv,0.0,,61,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,60-64 Years
+P00611.tsv,351121.0,,41,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00333.tsv,355853.0,Inactive,58,Unknown Ethnicity,HLA-B*57,Cohort 3,Cytomegalovirus -,Female,Unknown racial group,gDNA,55-59 Years
+P00400.tsv,0.0,,,Unknown Ethnicity,HLA-B*13,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00169.tsv,374161.0,Inactive,19,Non-Hispanic or Latino,HLA-B*58,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,18-35 Years
+P00340.tsv,113329.0,,17,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Native American or Alaska Native,gDNA,15-19 Years
+P00228.tsv,561319.0,,,Unknown Ethnicity,HLA-B*38,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00372.tsv,273370.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+Keck0055_MC1.tsv,470781.0,,32,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00539.tsv,323655.0,,55,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus -,Male,Caucasian,gDNA,55-59 Years
+P00199.tsv,270551.0,Inactive,50,Non-Hispanic or Latino,HLA-B*08,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00497.tsv,559149.0,,60,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00142.tsv,332508.0,,62,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,60-64 Years
+P00449.tsv,246624.0,,22,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Female,Native American or Alaska Native,gDNA,20-24 Years
+P00046.tsv,158274.0,Inactive,21,Unknown Ethnicity,,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,20-24 Years
+P00424.tsv,269161.0,,43,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00175.tsv,369693.0,,30,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00370.tsv,288760.0,,,Unknown Ethnicity,,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00256.tsv,280292.0,,58,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00026.tsv,411902.0,,26,Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,25-29 Years
+P00250.tsv,264769.0,,,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00248.tsv,256958.0,,42,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00036.tsv,339044.0,,53,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00191.tsv,96665.0,,34,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00591.tsv,287886.0,,60,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,60-64 Years
+P00362.tsv,353743.0,,43,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+Keck0087_MC1.tsv,416270.0,Inactive,29,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00619.tsv,253798.0,,44,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,40-44 Years
+P00266.tsv,265213.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00269.tsv,143178.0,,36,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00330.tsv,367355.0,,55,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Female,African Race,gDNA,55-59 Years
+P00448.tsv,555779.0,,52,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00523.tsv,0.0,,44,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00450.tsv,216042.0,,43,Non-Hispanic or Latino,,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00651.tsv,336207.0,,47,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,45-65 Years (Late Adulthood)
+Keck0075_MC1.tsv,237650.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,25-29 Years
+P00308.tsv,296598.0,Inactive,46,Non-Hispanic or Latino,HLA-B*35,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00632.tsv,0.0,,,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00466.tsv,286943.0,,31,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00035.tsv,563997.0,,51,Unknown Ethnicity,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,50-54 Years
+Keck0020_MC1.tsv,86340.0,Inactive,20,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00562.tsv,408491.0,,57,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,55-59 Years
+P00247.tsv,0.0,,55,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00541.tsv,779783.0,,36,Non-Hispanic or Latino,HLA-B*82,,Cytomegalovirus +,Female,African Race,gDNA,35-60 Years
+P00067.tsv,353154.0,,25,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,25-29 Years
+Keck0053_MC1.tsv,144959.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+P00399.tsv,441845.0,,56,Non-Hispanic or Latino,HLA-B*73,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00171.tsv,284234.0,,15,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Male,Caucasian,gDNA,15-19 Years
+P00048.tsv,260872.0,,35,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00310.tsv,401470.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00494.tsv,279535.0,,46,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00254.tsv,441863.0,Inactive,50,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00590.tsv,0.0,,48,Hispanic or Latino,HLA-B*52,,Cytomegalovirus +,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00384.tsv,0.0,,33,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00099.tsv,137029.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00414.tsv,241322.0,,55,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00508.tsv,249018.0,,48,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00176.tsv,346317.0,,10,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Female,Caucasian,gDNA,10-14 Years
+P00600.tsv,254239.0,,32,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00510.tsv,0.0,,05,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,05-09 Years
+P00196.tsv,226680.0,,48,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0057_MC1.tsv,404155.0,,32,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00041.tsv,78387.0,,29,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,25-29 Years
+P00071.tsv,0.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00495.tsv,298312.0,,40,Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+P00154.tsv,278213.0,,46,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00332.tsv,463375.0,,02,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,02-12 (Childhood)
+P00052.tsv,234650.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00536.tsv,365954.0,,48,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00417.tsv,637699.0,Inactive,52,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00277.tsv,98681.0,,22,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,20-24 Years
+Keck0035_MC1.tsv,130156.0,,20,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00614.tsv,0.0,,60,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Female,Caucasian,gDNA,60-64 Years
+P00351.tsv,432186.0,Inactive,46,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00483.tsv,0.0,,49,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00467.tsv,380474.0,,48,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00397.tsv,0.0,,14,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,12-18 Years (Adolescence)
+Keck0044_MC1.tsv,166361.0,,28,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,25-29 Years
+P00478.tsv,250618.0,Inactive,51,Non-Hispanic or Latino,HLA-B*57,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00320.tsv,300040.0,,08,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Asian or Pacific Islander,gDNA,05-09 Years
+P00361.tsv,296073.0,,39,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+Keck0093_MC1.tsv,706743.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00573.tsv,98645.0,,40,Hispanic or Latino,HLA-B*48,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+P00518.tsv,0.0,,47,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,45-65 Years (Late Adulthood)
+P00274.tsv,399792.0,,35,Non-Hispanic or Latino,HLA-B*48,,Cytomegalovirus -,Female,Native American or Alaska Native,gDNA,35-60 Years
+P00031.tsv,242388.0,,37,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Male,Unknown racial group,gDNA,35-60 Years
+P00455.tsv,288073.0,,63,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Native American or Alaska Native,gDNA,60-64 Years
+P00165.tsv,256430.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00121.tsv,255743.0,,36,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00004.tsv,334711.0,,45,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00621.tsv,420263.0,,45,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00194.tsv,355007.0,,25,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+Keck0077_MC1.tsv,352482.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00533.tsv,335337.0,,34,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00088.tsv,485764.0,,,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00388.tsv,367171.0,,55,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00225.tsv,360295.0,,40,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00549.tsv,973081.0,,52,Non-Hispanic or Latino,HLA-B*55,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00464.tsv,183624.0,Inactive,62,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+Keck0056_MC1.tsv,292879.0,Inactive,32,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00212.tsv,411231.0,,33,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+Keck0012_MC1.tsv,109005.0,Inactive,25,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Asian or Pacific Islander,gDNA,25-29 Years
+P00575.tsv,27613.0,,42,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00282.tsv,270329.0,,37,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,35-60 Years
+P00593.tsv,398286.0,,23,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus +,Male,Caucasian,gDNA,20-24 Years
+P00403.tsv,279322.0,,72,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,70-74 Years
+P00309.tsv,226576.0,,41,Non-Hispanic or Latino,HLA-B*50,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+Keck0102_MC1.tsv,297642.0,Inactive,32,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+Keck0025_MC1.tsv,122201.0,Inactive,22,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+Keck0022_MC1.tsv,135231.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00020.tsv,170907.0,,32,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+Keck0106_MC1.tsv,347857.0,Inactive,33,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00460.tsv,0.0,,49,Non-Hispanic or Latino,HLA-B*56,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00339.tsv,292372.0,,42,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+Keck0104_MC1.tsv,556400.0,,30,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00001.tsv,177428.0,Inactive,55,Unknown Ethnicity,HLA-B*07,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,55-59 Years
+P00023.tsv,399413.0,,10,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus -,Female,Caucasian,gDNA,10-14 Years
+Keck0068_MC1.tsv,333420.0,,28,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+P00214.tsv,0.0,,25,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+Keck0080_MC1.tsv,577358.0,,31,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00292.tsv,323879.0,,,Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00605.tsv,403963.0,,43,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00553.tsv,386062.0,,48,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00017.tsv,344629.0,,22,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus +,Male,Unknown racial group,gDNA,20-24 Years
+P00118.tsv,278791.0,,26,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00570.tsv,323556.0,,42,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00074.tsv,258364.0,Inactive,48,Unknown Ethnicity,,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00253.tsv,336284.0,,34,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00239.tsv,436143.0,,52,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00348.tsv,345972.0,,45,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00577.tsv,398887.0,,59,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+Keck0018_MC1.tsv,114172.0,,19,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,18-35 Years
+P00331.tsv,405215.0,,57,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00571.tsv,373366.0,,43,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+Keck0088_MC1.tsv,368993.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,25-29 Years
+Keck0058_MC1.tsv,245552.0,Inactive,26,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,25-29 Years
+Keck0069_MC1.tsv,793040.0,Inactive,28,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00143.tsv,238755.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+Keck0116_MC1.tsv,494052.0,Inactive,19,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,18-35 Years
+P00054.tsv,273548.0,,49,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus +,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00085.tsv,299444.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00658.tsv,218779.0,,,Unknown Ethnicity,HLA-B*15,,,,Unknown racial group,gDNA,
+P00596.tsv,218338.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+Keck0063_MC1.tsv,140377.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00327.tsv,122617.0,,34,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,30-34 Years
+P00532.tsv,535532.0,,24,Non-Hispanic or Latino,HLA-B*55,,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00045.tsv,222891.0,,31,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00421.tsv,577213.0,,46,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0120_MC1.tsv,474402.0,Inactive,26,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00217.tsv,358229.0,,,Unknown Ethnicity,HLA-B*07,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00219.tsv,545897.0,,32,Unknown Ethnicity,HLA-B*40,,Cytomegalovirus -,Female,Unknown racial group,gDNA,30-34 Years
+P00354.tsv,433783.0,,36,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00173.tsv,295009.0,,42,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00502.tsv,213308.0,Inactive,49,Non-Hispanic or Latino,HLA-B*56,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00419.tsv,0.0,,23,Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,20-24 Years
+P00342.tsv,360169.0,Inactive,48,Non-Hispanic or Latino,HLA-B*60,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00594.tsv,280159.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00087.tsv,271643.0,Inactive,46,Unknown Ethnicity,HLA-B*37,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00129.tsv,347167.0,,60,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus +,Male,Caucasian,gDNA,60-64 Years
+P00408.tsv,316644.0,,44,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00244.tsv,387868.0,,51,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00610.tsv,328287.0,,48,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,45-65 Years (Late Adulthood)
+P00345.tsv,376137.0,,65,Non-Hispanic or Latino,HLA-B*47,,Cytomegalovirus +,Male,Caucasian,gDNA,65-69 Years
+P00083.tsv,281898.0,,33,Unknown Ethnicity,HLA-B*18,,Cytomegalovirus +,Female,Unknown racial group,gDNA,30-34 Years
+P00115.tsv,394504.0,,42,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+P00259.tsv,415886.0,,25,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00193.tsv,362113.0,Inactive,22,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00344.tsv,327614.0,Inactive,24,Non-Hispanic or Latino,HLA-B*38,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,20-24 Years
+P00163.tsv,367201.0,,26,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+Keck0047_MC1.tsv,154968.0,Inactive,30,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00107.tsv,321600.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+Keck0101_MC1.tsv,745814.0,,35,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00363.tsv,284845.0,,33,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00472.tsv,146547.0,,31,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00321.tsv,338370.0,,61,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,60-64 Years
+P00134.tsv,330173.0,,28,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00070.tsv,122122.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00629.tsv,0.0,,15,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,15-19 Years
+P00561.tsv,162833.0,,25,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00109.tsv,130112.0,,42,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00653.tsv,346172.0,,51,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00476.tsv,396160.0,,23,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Caucasian,gDNA,20-24 Years
+P00473.tsv,369076.0,,62,Non-Hispanic or Latino,HLA-B*41,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00347.tsv,310788.0,,28,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus +,Male,African Race,gDNA,25-29 Years
+Keck0073_MC1.tsv,451095.0,,24,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00127.tsv,425183.0,,54,Non-Hispanic or Latino,HLA-B*55,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00037.tsv,384648.0,,29,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+P00500.tsv,634423.0,,42,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00190.tsv,203049.0,,50,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00044.tsv,314439.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00152.tsv,248997.0,Inactive,47,Unknown Ethnicity,HLA-B*55,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00486.tsv,306394.0,Inactive,55,Non-Hispanic or Latino,HLA-B*39,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00578.tsv,0.0,,49,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00470.tsv,196687.0,,30,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,30-34 Years
+P00661.tsv,309928.0,,28,Non-Hispanic or Latino,HLA-B*53,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00092.tsv,390290.0,,10,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus -,Male,Caucasian,gDNA,10-14 Years
+P00608.tsv,276628.0,,63,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+P00009.tsv,369566.0,,44,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00156.tsv,494496.0,,,Unknown Ethnicity,,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00415.tsv,314884.0,,57,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus +,Male,Unknown racial group,gDNA,55-59 Years
+P00545.tsv,350587.0,,52,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00101.tsv,170011.0,,11,Hispanic or Latino,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,10-14 Years
+P00112.tsv,502566.0,,39,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,35-60 Years
+P00462.tsv,263537.0,,49,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00582.tsv,347760.0,,35,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00015.tsv,333773.0,,01,Hispanic or Latino,HLA-B*61,,Cytomegalovirus -,Female,Unknown racial group,gDNA,01-04 Years
+P00028.tsv,426835.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00270.tsv,194714.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00380.tsv,349212.0,,39,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00469.tsv,0.0,,41,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00353.tsv,282530.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00126.tsv,393719.0,Inactive,23,Non-Hispanic or Latino,HLA-B*60,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00341.tsv,278394.0,Inactive,46,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0006_MC1.tsv,167665.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00581.tsv,402433.0,,39,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00471.tsv,0.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00440.tsv,366552.0,,44,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+Keck0010_MC1.tsv,137541.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00150.tsv,237486.0,,29,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00110.tsv,493956.0,,,Unknown Ethnicity,HLA-B*50,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+Keck0007_MC1.tsv,141919.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+Keck0052_MC1.tsv,44656.0,,33,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00602.tsv,366173.0,,52,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00325.tsv,431769.0,,35,Non-Hispanic or Latino,HLA-B*54,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,35-60 Years
+P00487.tsv,459958.0,,33,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00311.tsv,0.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00224.tsv,476962.0,Inactive,23,Non-Hispanic or Latino,HLA-B*60,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,20-24 Years
+P00300.tsv,373025.0,,44,Non-Hispanic or Latino,,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00371.tsv,236786.0,,40,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00642.tsv,356883.0,,33,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00406.tsv,435385.0,Inactive,47,Non-Hispanic or Latino,HLA-B*70,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00557.tsv,307683.0,,48,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00103.tsv,353544.0,,34,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00648.tsv,325791.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00492.tsv,429314.0,,22,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Male,Caucasian,gDNA,20-24 Years
+P00215.tsv,394749.0,,34,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00034.tsv,0.0,,,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00177.tsv,47830.0,,25,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+Keck0045_MC1.tsv,119965.0,Inactive,34,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00050.tsv,364580.0,,,Unknown Ethnicity,HLA-B*38,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+Keck0024_MC1.tsv,108492.0,Inactive,25,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00180.tsv,309826.0,,39,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00329.tsv,383716.0,,51,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00442.tsv,326705.0,,26,Non-Hispanic or Latino,,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00114.tsv,200866.0,,,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00301.tsv,278696.0,Inactive,51,Non-Hispanic or Latino,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00665.tsv,91405.0,,57,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus -,Female,Unknown racial group,gDNA,55-59 Years
+P00120.tsv,72035.0,Inactive,59,Non-Hispanic or Latino,HLA-B*51,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00659.tsv,297007.0,,56,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Male,African Race,gDNA,55-59 Years
+Keck0082_MC1.tsv,593522.0,,29,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00646.tsv,351064.0,,06,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,05-09 Years
+P00426.tsv,0.0,,54,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus +,Male,Unknown racial group,gDNA,50-54 Years
+P00057.tsv,294195.0,Inactive,47,Unknown Ethnicity,,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00207.tsv,4371.0,,41,Unknown Ethnicity,HLA-B*07,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00098.tsv,527812.0,,44,Unknown Ethnicity,HLA-B*38,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00264.tsv,174253.0,Inactive,46,Unknown Ethnicity,HLA-B*15,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00618.tsv,354760.0,,67,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,65-69 Years
+P00589.tsv,357366.0,,21,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,20-24 Years
+P00346.tsv,320157.0,,64,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00144.tsv,586404.0,,46,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Male,Native American or Alaska Native,gDNA,45-65 Years (Late Adulthood)
+P00123.tsv,250048.0,,48,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00438.tsv,262061.0,,35,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00222.tsv,317930.0,,,Unknown Ethnicity,HLA-B*18,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00576.tsv,162355.0,,57,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00468.tsv,0.0,,38,Non-Hispanic or Latino,,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00579.tsv,414067.0,,37,Non-Hispanic or Latino,HLA-B*50,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00430.tsv,384776.0,,48,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0064_MC1.tsv,257934.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+Keck0103_MC1.tsv,239924.0,Inactive,35,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00262.tsv,295027.0,,51,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,50-54 Years
+P00352.tsv,362972.0,,31,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,African Race,gDNA,30-34 Years
+P00328.tsv,0.0,,29,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00660.tsv,365759.0,,,Unknown Ethnicity,HLA-B*35,,,,Unknown racial group,gDNA,
+P00544.tsv,251496.0,,42,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00634.tsv,424968.0,,02,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Male,Caucasian,gDNA,02-12 (Childhood)
+P00436.tsv,211511.0,,32,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00418.tsv,307649.0,,39,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00102.tsv,316932.0,,,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00521.tsv,251049.0,,36,Hispanic or Latino,HLA-B*14,,Cytomegalovirus +,Male,Unknown racial group,gDNA,35-60 Years
+P00620.tsv,418884.0,,51,Non-Hispanic or Latino,HLA-B*50,,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00108.tsv,321566.0,,,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00501.tsv,145385.0,,36,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+Keck0091_MC1.tsv,378284.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,African Race,gDNA,24-45 Years (Middle Adulthood)
+P00355.tsv,227407.0,Inactive,21,Non-Hispanic or Latino,HLA-B*37,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00444.tsv,0.0,,,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00011.tsv,177414.0,,32,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,30-34 Years
+P00548.tsv,248172.0,,32,Unknown Ethnicity,HLA-B*40,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+Keck0095_MC1.tsv,696203.0,Inactive,34,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00644.tsv,423832.0,,47,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+Keck0110_MC1.tsv,285702.0,,27,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+P00039.tsv,387666.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00174.tsv,352765.0,,56,Non-Hispanic or Latino,HLA-B*22,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00322.tsv,347515.0,,47,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,45-65 Years (Late Adulthood)
+P00607.tsv,531895.0,,46,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00366.tsv,370291.0,,,Unknown Ethnicity,HLA-B*61,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00119.tsv,380501.0,Inactive,46,Unknown Ethnicity,,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00349.tsv,452825.0,,39,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00511.tsv,376320.0,,35,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00183.tsv,292593.0,Inactive,18,Non-Hispanic or Latino,HLA-B*51,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,18-35 Years
+P00617.tsv,348321.0,,34,Unknown Ethnicity,HLA-B*18,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00379.tsv,397654.0,,34,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00505.tsv,377697.0,,41,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+Keck0032_MC1.tsv,140561.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+Keck0115_MC1.tsv,556291.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+Keck0054_MC1.tsv,252230.0,,33,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,30-34 Years
+Keck0026_MC1.tsv,101439.0,,19,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,18-35 Years
+P00514.tsv,369663.0,,,Unknown Ethnicity,HLA-B*15,,,,Unknown racial group,gDNA,
+P00491.tsv,283718.0,,43,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00585.tsv,282538.0,,,Unknown Ethnicity,HLA-B*35,,,,Unknown racial group,gDNA,
+P00290.tsv,342254.0,,55,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,55-59 Years
+P00543.tsv,187869.0,,55,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Male,Caucasian,gDNA,55-59 Years
+P00526.tsv,283052.0,,24,Hispanic or Latino,HLA-B*39,,Cytomegalovirus +,Female,Unknown racial group,gDNA,24-45 Years (Middle Adulthood)
+P00220.tsv,394403.0,,,Unknown Ethnicity,HLA-B*49,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00552.tsv,352506.0,,,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+Keck0109_MC1.tsv,250526.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00055.tsv,401033.0,,27,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Male,Unknown racial group,gDNA,25-29 Years
+P00073.tsv,140259.0,,,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00151.tsv,218165.0,,38,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus +,Male,Unknown racial group,gDNA,35-60 Years
+P00563.tsv,331293.0,,25,Unknown Ethnicity,HLA-B*50,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+Keck0107_MC1.tsv,399076.0,Inactive,22,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,African Race,gDNA,24-45 Years (Middle Adulthood)
+P00512.tsv,310611.0,,53,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00551.tsv,346059.0,,74,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,70-74 Years
+P00662.tsv,282569.0,,34,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,30-34 Years
+Keck0019_MC1.tsv,153513.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00135.tsv,349893.0,,62,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00003.tsv,288219.0,,21,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Male,Caucasian,gDNA,20-24 Years
+P00410.tsv,54459.0,Inactive,63,Unknown Ethnicity,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,60-64 Years
+P00187.tsv,461352.0,,28,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00498.tsv,426957.0,,60,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,60-64 Years
+Keck0004_MC1.tsv,150298.0,,24,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00493.tsv,0.0,,,Unknown Ethnicity,HLA-B*15,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00392.tsv,514215.0,,39,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00319.tsv,343668.0,,42,Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+P00359.tsv,210983.0,Inactive,49,Non-Hispanic or Latino,HLA-B*61,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00445.tsv,327660.0,,05,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,05-09 Years
+P00317.tsv,356494.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00069.tsv,337923.0,,30,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus +,Male,Unknown racial group,gDNA,30-34 Years
+P00257.tsv,397247.0,,47,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00188.tsv,392674.0,,38,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+Keck0096_MC1.tsv,632231.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+P00267.tsv,306696.0,,,Unknown Ethnicity,HLA-B*75,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00616.tsv,322819.0,,41,Non-Hispanic or Latino,HLA-B*41,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00095.tsv,295114.0,,54,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+Keck0078_MC1.tsv,310264.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00124.tsv,373910.0,,08,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Male,Caucasian,gDNA,05-09 Years
+P00294.tsv,276880.0,,34,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00235.tsv,277465.0,Inactive,46,Unknown Ethnicity,HLA-B*44,Cohort 3,Cytomegalovirus -,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00234.tsv,513356.0,,41,Unknown Ethnicity,,,Cytomegalovirus +,Male,Unknown racial group,gDNA,40-44 Years
+P00496.tsv,90693.0,,50,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,50-54 Years
+P00474.tsv,469983.0,,07,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,05-09 Years
+P00387.tsv,183067.0,,37,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00090.tsv,310028.0,,27,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus +,Male,Unknown racial group,gDNA,25-29 Years
+P00357.tsv,327171.0,,34,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+Keck0041_MC1.tsv,131898.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00528.tsv,266506.0,,70,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,70-74 Years
+Keck0036_MC1.tsv,136956.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00117.tsv,134868.0,,36,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00236.tsv,488876.0,,39,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00078.tsv,276495.0,,35,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus -,Male,Unknown racial group,gDNA,35-60 Years
+P00268.tsv,279516.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00059.tsv,364614.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00080.tsv,403213.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+Keck0043_MC1.tsv,123640.0,,19,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,18-35 Years
+Keck0105_MC1.tsv,405013.0,Inactive,32,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+Keck0071_MC1.tsv,551562.0,Inactive,32,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00146.tsv,432999.0,,07,Non-Hispanic or Latino,HLA-B*63,,Cytomegalovirus +,Female,Caucasian,gDNA,05-09 Years
+P00375.tsv,540601.0,,,Unknown Ethnicity,HLA-B*52,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00454.tsv,495691.0,,13,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Male,Caucasian,gDNA,12-18 Years (Adolescence)
+P00216.tsv,0.0,,35,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00572.tsv,30285.0,,37,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00307.tsv,193828.0,,14,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,12-18 Years (Adolescence)
+P00147.tsv,209273.0,,39,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00592.tsv,157717.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00160.tsv,401564.0,,55,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00249.tsv,431081.0,Inactive,46,Unknown Ethnicity,HLA-B*52,Cohort 3,Cytomegalovirus -,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00459.tsv,0.0,,66,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Male,Caucasian,gDNA,65-69 Years
+P00170.tsv,462337.0,,15,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,15-19 Years
+Keck0092_MC1.tsv,450388.0,,21,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00441.tsv,11157.0,,40,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+Keck0062_MC1.tsv,355792.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+Keck0015_MC1.tsv,141783.0,,20,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00149.tsv,391357.0,,32,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Female,Unknown racial group,gDNA,30-34 Years
+P00229.tsv,513609.0,,45,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00513.tsv,0.0,,36,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00288.tsv,458059.0,,53,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00583.tsv,339537.0,,,Unknown Ethnicity,HLA-B*39,,,,Unknown racial group,gDNA,
+P00287.tsv,294435.0,Inactive,50,Non-Hispanic or Latino,HLA-B*51,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00447.tsv,0.0,,26,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00382.tsv,317270.0,,,Unknown Ethnicity,HLA-B*38,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00667.tsv,132746.0,,,Unknown Ethnicity,HLA-B*08,,,,Unknown racial group,gDNA,
+P00391.tsv,434593.0,,43,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00304.tsv,445824.0,,61,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00432.tsv,362662.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,20-24 Years
+Keck0039_MC1.tsv,98082.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00529.tsv,0.0,,20,Hispanic or Latino,HLA-B*37,,Cytomegalovirus +,Male,Unknown racial group,gDNA,20-24 Years
+P00446.tsv,66268.0,,17,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Male,Caucasian,gDNA,15-19 Years
+P00639.tsv,371033.0,,60,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+P00289.tsv,0.0,,37,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus +,Female,Unknown racial group,gDNA,35-60 Years
+P00527.tsv,214485.0,,61,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,60-64 Years
+P00172.tsv,444391.0,,42,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00153.tsv,359221.0,,42,Unknown Ethnicity,,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00367.tsv,0.0,,46,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00100.tsv,226465.0,,,Unknown Ethnicity,,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00643.tsv,332187.0,,,Unknown Ethnicity,HLA-B*18,,,,Unknown racial group,gDNA,
+P00237.tsv,0.0,,61,Unknown Ethnicity,HLA-B*18,,Cytomegalovirus +,Female,Unknown racial group,gDNA,60-64 Years
+P00258.tsv,307031.0,,39,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Male,African Race,gDNA,35-60 Years
+P00413.tsv,0.0,,58,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,55-59 Years
+P00232.tsv,345459.0,,45,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0014_MC1.tsv,150760.0,Inactive,19,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,18-35 Years
+P00007.tsv,400361.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00350.tsv,350786.0,,41,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+Keck0098_MC1.tsv,266104.0,Inactive,20,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00231.tsv,348058.0,Inactive,47,Non-Hispanic or Latino,HLA-B*49,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0049_MC1.tsv,250438.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,25-29 Years
+P00091.tsv,273548.0,,14,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Caucasian,gDNA,12-18 Years (Adolescence)
+P00298.tsv,302604.0,,49,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00509.tsv,200835.0,,47,Non-Hispanic or Latino,HLA-B*52,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00125.tsv,320904.0,,39,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Male,Native American or Alaska Native,gDNA,35-60 Years
+Keck0108_MC1.tsv,254094.0,,29,Hispanic or Latino,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,25-29 Years
+P00477.tsv,0.0,,38,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00385.tsv,305574.0,,31,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00260.tsv,238500.0,Inactive,54,Non-Hispanic or Latino,HLA-B*08,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00155.tsv,426193.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00481.tsv,0.0,,25,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Male,Unknown racial group,gDNA,25-29 Years
+P00465.tsv,255747.0,,41,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00137.tsv,215411.0,Inactive,48,Unknown Ethnicity,HLA-B*60,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00166.tsv,432887.0,,54,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00534.tsv,66072.0,,23,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00280.tsv,187459.0,,22,Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Female,Unknown racial group,gDNA,20-24 Years
+P00281.tsv,0.0,,32,Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Unknown racial group,gDNA,30-34 Years
+P00276.tsv,402489.0,,43,Hispanic or Latino,HLA-B*53,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+Keck0111_MC1.tsv,361085.0,,,,HLA MHC Class I,,,,,,
+P00522.tsv,341902.0,,28,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00564.tsv,427857.0,,10,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,10-14 Years
+P00164.tsv,290812.0,,49,Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00499.tsv,391165.0,Inactive,53,Non-Hispanic or Latino,HLA-B*35,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00323.tsv,0.0,,35,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Male,Unknown racial group,gDNA,35-60 Years
+P00178.tsv,256967.0,,48,Non-Hispanic or Latino,HLA-B*70,,Cytomegalovirus +,Female,African Race,gDNA,45-65 Years (Late Adulthood)
+Keck0072_MC1.tsv,300433.0,Inactive,26,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00314.tsv,337103.0,Inactive,54,Non-Hispanic or Latino,HLA-B*55,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+Keck0033_MC1.tsv,130728.0,,24,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00167.tsv,399802.0,,25,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00315.tsv,276087.0,,35,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,35-60 Years
+Keck0028_MC1.tsv,107598.0,Inactive,20,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00240.tsv,317896.0,,,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00560.tsv,146306.0,,45,Non-Hispanic or Latino,HLA-B*13,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00223.tsv,290196.0,,35,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00427.tsv,314289.0,,47,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0119_MC1.tsv,487792.0,,24,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+Keck0023_MC1.tsv,145418.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00550.tsv,335714.0,,34,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00358.tsv,89629.0,,,Unknown Ethnicity,HLA-B*45,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00393.tsv,346264.0,,44,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+Keck0112_MC1.tsv,306424.0,Inactive,28,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00186.tsv,292827.0,,36,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00458.tsv,493018.0,,41,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00461.tsv,0.0,,45,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00241.tsv,262991.0,,,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00038.tsv,448116.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00451.tsv,286852.0,,36,Non-Hispanic or Latino,HLA-B*41,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00316.tsv,465006.0,,,Unknown Ethnicity,HLA-B*51,,,,Unknown racial group,gDNA,
+Keck0027_MC1.tsv,72648.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00343.tsv,313670.0,,50,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Female,Unknown racial group,gDNA,50-54 Years
+P00002.tsv,137846.0,,41,Unknown Ethnicity,HLA-B*37,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+P00122.tsv,333975.0,,28,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00601.tsv,237818.0,,,Unknown Ethnicity,HLA-B*40,,,,Unknown racial group,gDNA,
+P00376.tsv,465698.0,,36,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00077.tsv,261977.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00628.tsv,325436.0,,23,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00540.tsv,263031.0,,12,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus -,Male,Caucasian,gDNA,12-18 Years (Adolescence)
+P00272.tsv,413072.0,Inactive,52,Non-Hispanic or Latino,HLA-B*60,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00072.tsv,223937.0,,,Unknown Ethnicity,HLA-B*63,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00132.tsv,0.0,,55,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Male,Caucasian,gDNA,55-59 Years
+P00457.tsv,262298.0,,36,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00255.tsv,420585.0,,08,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus -,Female,Caucasian,gDNA,05-09 Years
+P00645.tsv,0.0,,44,Unknown Ethnicity,HLA-B*61,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+P00360.tsv,0.0,,,Unknown Ethnicity,HLA-B*13,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00111.tsv,234764.0,,34,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00312.tsv,211218.0,,26,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00084.tsv,242969.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00656.tsv,304806.0,,43,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+Keck0008_MC1.tsv,158973.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00650.tsv,397363.0,,51,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00520.tsv,0.0,,24,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00022.tsv,173467.0,,38,Unknown Ethnicity,HLA-B*18,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00390.tsv,0.0,,36,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00482.tsv,231816.0,,41,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00005.tsv,0.0,,27,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00647.tsv,409215.0,,45,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00324.tsv,190059.0,,71,Unknown Ethnicity,HLA-B*54,,Cytomegalovirus +,Male,Unknown racial group,gDNA,70-74 Years
+P00503.tsv,266658.0,,48,Non-Hispanic or Latino,HLA-B*50,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00014.tsv,396997.0,,35,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00599.tsv,347707.0,,59,Non-Hispanic or Latino,HLA-B*56,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00638.tsv,422156.0,,30,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00318.tsv,337402.0,,09,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,05-09 Years
+P00245.tsv,472062.0,,03,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,02-12 (Childhood)
+P00024.tsv,352428.0,,38,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00485.tsv,385288.0,,49,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00158.tsv,0.0,,17,Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Female,Unknown racial group,gDNA,15-19 Years
+P00490.tsv,307942.0,,56,Non-Hispanic or Latino,HLA-B*56,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00635.tsv,0.0,,,Unknown Ethnicity,HLA-B*57,,,,Unknown racial group,gDNA,
+P00535.tsv,235332.0,,71,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,70-74 Years
+P00456.tsv,772318.0,,46,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00206.tsv,0.0,,42,Unknown Ethnicity,HLA-B*14,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+P00613.tsv,477467.0,,23,Unknown Ethnicity,HLA-B*14,,Cytomegalovirus -,Female,Unknown racial group,gDNA,20-24 Years
+P00423.tsv,362197.0,,03,Non-Hispanic or Latino,HLA-B*63,,Cytomegalovirus -,Male,Caucasian,gDNA,02-12 (Childhood)
+Keck0046_MC1.tsv,131205.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00663.tsv,303793.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00337.tsv,331439.0,,40,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00061.tsv,335307.0,,36,Unknown Ethnicity,HLA-B*62,,,Male,Unknown racial group,gDNA,35-60 Years
+P00609.tsv,168419.0,,22,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus -,Male,Caucasian,gDNA,20-24 Years
+P00305.tsv,275798.0,,25,Non-Hispanic or Latino,HLA-B*52,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00565.tsv,126928.0,,28,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00453.tsv,174306.0,,62,Non-Hispanic or Latino,HLA-B*61,,Cytomegalovirus +,Male,Asian or Pacific Islander,gDNA,60-64 Years
+P00062.tsv,263834.0,,32,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00405.tsv,0.0,,40,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00211.tsv,385035.0,,36,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00201.tsv,332881.0,,09,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus -,Male,Caucasian,gDNA,05-09 Years
+P00221.tsv,219120.0,Inactive,47,Non-Hispanic or Latino,HLA-B*62,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00251.tsv,262619.0,Inactive,51,Non-Hispanic or Latino,HLA-B*56,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00568.tsv,581331.0,,27,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus +,Female,Native American or Alaska Native,gDNA,25-29 Years
+Keck0029_MC1.tsv,135044.0,Inactive,20,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00130.tsv,277416.0,,42,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00569.tsv,402558.0,,55,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00525.tsv,248137.0,,53,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+Keck0037_MC1.tsv,229522.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00425.tsv,394325.0,Inactive,18,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,18-35 Years
+P00295.tsv,379743.0,,34,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00273.tsv,302984.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+Keck0060_MC1.tsv,286032.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00197.tsv,0.0,,53,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00136.tsv,429111.0,,42,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+Keck0086_MC1.tsv,273701.0,Inactive,27,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00374.tsv,275737.0,,40,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+P00640.tsv,195755.0,,,Unknown Ethnicity,HLA-B*57,,,,Unknown racial group,gDNA,
+P00029.tsv,398883.0,,37,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus +,Male,Unknown racial group,gDNA,35-60 Years
+P00291.tsv,257092.0,Inactive,49,Non-Hispanic or Latino,HLA-B*63,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00168.tsv,217529.0,,44,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00606.tsv,372977.0,,49,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00138.tsv,339197.0,,48,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00531.tsv,664521.0,,44,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00515.tsv,108855.0,,42,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+Keck0011_MC1.tsv,115430.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00633.tsv,324035.0,,,Unknown Ethnicity,HLA-B*35,,,,Unknown racial group,gDNA,
+Keck0084_MC1.tsv,726272.0,,34,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,30-34 Years
+P00389.tsv,518307.0,,42,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00296.tsv,146483.0,,33,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+Keck0051_MC1.tsv,137727.0,Inactive,31,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00434.tsv,316861.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+Keck0081_MC1.tsv,488096.0,Inactive,28,Non-Hispanic or Latino,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00507.tsv,92630.0,Inactive,51,Non-Hispanic or Latino,HLA-B*51,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+P00586.tsv,210155.0,,34,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00649.tsv,300550.0,,45,Non-Hispanic or Latino,,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00612.tsv,0.0,,60,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus -,Female,Caucasian,gDNA,60-64 Years
+P00065.tsv,230124.0,,43,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,40-44 Years
+Keck0002_MC1.tsv,147161.0,Inactive,21,Non-Hispanic or Latino,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00016.tsv,401718.0,,39,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Male,Caucasian,gDNA,35-60 Years
+P00666.tsv,0.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00192.tsv,100186.0,,36,Unknown Ethnicity,HLA-B*13,,Cytomegalovirus -,Male,Unknown racial group,gDNA,35-60 Years
+P00517.tsv,365219.0,,48,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00075.tsv,305712.0,,27,Unknown Ethnicity,,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+P00184.tsv,388661.0,,40,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00537.tsv,239727.0,,60,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+Keck0059_MC1.tsv,815687.0,,33,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00200.tsv,217348.0,,66,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus +,Male,Caucasian,gDNA,65-69 Years
+P00283.tsv,498195.0,,32,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,30-34 Years
+P00162.tsv,410015.0,,42,Hispanic or Latino,HLA-B*41,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+Keck0100_MC1.tsv,285228.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00265.tsv,402623.0,,,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00263.tsv,403572.0,,27,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,25-29 Years
+P00079.tsv,328718.0,,,Unknown Ethnicity,HLA-B*49,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+Keck0089_MC1.tsv,329804.0,,34,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,African Race,gDNA,30-34 Years
+P00338.tsv,245253.0,,34,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00202.tsv,370719.0,,29,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+P00489.tsv,253504.0,,51,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,50-54 Years
+Keck0003_MC1.tsv,233486.0,Inactive,25,,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Female,Native American or Alaska Native,gDNA,25-29 Years
+P00554.tsv,468448.0,,36,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus +,Female,Caucasian,gDNA,35-60 Years
+P00286.tsv,493712.0,,61,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,60-64 Years
+P00010.tsv,136745.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00133.tsv,0.0,,46,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00530.tsv,308025.0,,64,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,60-64 Years
+P00303.tsv,94754.0,,42,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Female,Caucasian,gDNA,40-44 Years
+Keck0061_MC1.tsv,278104.0,Inactive,22,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00463.tsv,151199.0,,39,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00624.tsv,244488.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+Keck0066_MC1.tsv,204529.0,Inactive,35,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00622.tsv,215007.0,,62,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,60-64 Years
+P00018.tsv,0.0,,30,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00516.tsv,294873.0,,,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00030.tsv,240003.0,,39,Unknown Ethnicity,HLA-B*61,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00547.tsv,335108.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00042.tsv,287829.0,,55,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00598.tsv,433226.0,,60,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+Keck0009_MC1.tsv,153700.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+Keck0097_MC1.tsv,471321.0,Inactive,22,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,24-45 Years (Middle Adulthood)
+P00626.tsv,120158.0,,39,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,35-60 Years
+P00433.tsv,408906.0,,,Non-Hispanic or Latino,HLA-B*52,,Cytomegalovirus -,Female,Caucasian,gDNA,
+P00335.tsv,306845.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00630.tsv,362951.0,,,Unknown Ethnicity,HLA-B*35,,,,Unknown racial group,gDNA,
+P00422.tsv,390810.0,,21,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus +,Female,Caucasian,gDNA,20-24 Years
+P00056.tsv,237280.0,,54,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus +,Male,Unknown racial group,gDNA,50-54 Years
+P00275.tsv,249777.0,,15,Non-Hispanic or Latino,HLA-B*53,,Cytomegalovirus +,Male,African Race,gDNA,15-19 Years
+P00556.tsv,382977.0,,50,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+Keck0048_MC1.tsv,175436.0,Inactive,30,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00104.tsv,437209.0,,29,Unknown Ethnicity,HLA-B*58,,Cytomegalovirus -,Female,Unknown racial group,gDNA,25-29 Years
+Keck0017_MC1.tsv,117365.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00597.tsv,349684.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00006.tsv,271126.0,,37,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00145.tsv,349221.0,,38,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00373.tsv,253705.0,Inactive,65,Non-Hispanic or Latino,HLA-B*57,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,65-69 Years
+P00412.tsv,377341.0,,56,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00336.tsv,413460.0,,18,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus +,Male,Native American or Alaska Native,gDNA,18-35 Years
+P00542.tsv,130485.0,,58,Non-Hispanic or Latino,HLA-B*27,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00105.tsv,59144.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00139.tsv,134137.0,,36,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00479.tsv,256597.0,,35,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00027.tsv,457667.0,,34,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00060.tsv,354295.0,,32,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00615.tsv,349465.0,,60,Non-Hispanic or Latino,HLA-B*37,,Cytomegalovirus -,Male,Caucasian,gDNA,60-64 Years
+Keck0030_MC1.tsv,138321.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00293.tsv,372974.0,,11,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus +,Female,Unknown racial group,gDNA,10-14 Years
+P00475.tsv,0.0,,34,Unknown Ethnicity,,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00106.tsv,624301.0,,,Unknown Ethnicity,HLA-B*60,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00435.tsv,199473.0,,31,Non-Hispanic or Latino,HLA-B*41,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00437.tsv,0.0,,39,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00625.tsv,302549.0,,56,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00480.tsv,141501.0,,43,Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+Keck0050_MC1.tsv,138526.0,,25,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Unknown racial group,gDNA,25-29 Years
+Keck0085_MC1.tsv,342181.0,Inactive,30,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00128.tsv,444013.0,,41,Non-Hispanic or Latino,HLA-B*52,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+P00378.tsv,0.0,,11,Non-Hispanic or Latino,HLA-B*55,,Cytomegalovirus -,Male,Caucasian,gDNA,10-14 Years
+P00226.tsv,216181.0,,50,Hispanic or Latino,HLA-B*63,,Cytomegalovirus +,Female,Unknown racial group,gDNA,50-54 Years
+P00588.tsv,115304.0,,,Unknown Ethnicity,HLA-B*35,,,,Unknown racial group,gDNA,
+Keck0038_MC1.tsv,158290.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00394.tsv,316796.0,,20,Hispanic or Latino,HLA-B*49,,Cytomegalovirus +,Female,Unknown racial group,gDNA,20-24 Years
+P00047.tsv,288214.0,,,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00019.tsv,437225.0,Inactive,55,Unknown Ethnicity,HLA-B*44,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,55-59 Years
+P00012.tsv,275119.0,,33,Unknown Ethnicity,HLA-B*58,,Cytomegalovirus +,Female,Unknown racial group,gDNA,30-34 Years
+Keck0065_MC1.tsv,262260.0,,27,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,25-29 Years
+P00603.tsv,202607.0,,57,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00538.tsv,271164.0,,45,Hispanic or Latino,HLA-B*73,,Cytomegalovirus +,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+P00195.tsv,288493.0,Inactive,21,Unknown Ethnicity,HLA-B*07,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,20-24 Years
+P00096.tsv,226222.0,,,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00064.tsv,215993.0,,,Unknown Ethnicity,HLA-B*45,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00627.tsv,475510.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00279.tsv,405933.0,,27,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus -,Female,Asian or Pacific Islander,gDNA,25-29 Years
+P00416.tsv,311434.0,Inactive,50,Non-Hispanic or Latino,HLA-B*35,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00033.tsv,391018.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00555.tsv,265004.0,,57,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00271.tsv,393665.0,,51,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Male,Caucasian,gDNA,50-54 Years
+P00021.tsv,211957.0,,29,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+P00488.tsv,156366.0,,46,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0117_MC1.tsv,513475.0,,34,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00051.tsv,133048.0,,40,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Female,Unknown racial group,gDNA,40-44 Years
+P00116.tsv,292139.0,,38,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Female,Unknown racial group,gDNA,35-60 Years
+P00604.tsv,172139.0,,53,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00204.tsv,136861.0,,32,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00013.tsv,249210.0,Inactive,23,Unknown Ethnicity,HLA-B*44,Cohort 3,Cytomegalovirus -,Female,Unknown racial group,gDNA,20-24 Years
+Keck0118_MC1.tsv,660975.0,,28,Non-Hispanic or Latino,HLA MHC Class I,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00652.tsv,406009.0,,55,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus +,Female,Caucasian,gDNA,55-59 Years
+P00081.tsv,269179.0,,27,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+P00025.tsv,312201.0,,,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+P00431.tsv,117092.0,,49,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00326.tsv,256368.0,,66,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,65-69 Years
+P00297.tsv,344530.0,,45,Non-Hispanic or Latino,HLA-B*48,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00198.tsv,402786.0,,21,Non-Hispanic or Latino,HLA-B*07,,Cytomegalovirus +,Female,Caucasian,gDNA,20-24 Years
+P00227.tsv,0.0,,19,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Male,Caucasian,gDNA,18-35 Years
+P00524.tsv,362985.0,,49,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00189.tsv,290687.0,,31,Unknown Ethnicity,HLA-B*14,,Cytomegalovirus +,Male,Unknown racial group,gDNA,30-34 Years
+P00401.tsv,252159.0,,48,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00299.tsv,200118.0,,27,Non-Hispanic or Latino,,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00595.tsv,438877.0,,34,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00302.tsv,352585.0,,32,Non-Hispanic or Latino,HLA-B*13,,Cytomegalovirus +,Male,Caucasian,gDNA,30-34 Years
+P00040.tsv,246356.0,Inactive,51,Unknown Ethnicity,HLA-B*39,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,50-54 Years
+P00668.tsv,406165.0,,48,Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+Keck0031_MC1.tsv,199184.0,Inactive,25,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,25-29 Years
+Keck0113_MC1.tsv,604769.0,Inactive,20,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+Keck0001_MC1.tsv,128553.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,20-24 Years
+Keck0099_MC1.tsv,334118.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00383.tsv,364590.0,,30,Hispanic or Latino,HLA-B*49,,Cytomegalovirus +,Male,Unknown racial group,gDNA,30-34 Years
+P00504.tsv,0.0,,44,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus +,Female,Caucasian,gDNA,40-44 Years
+P00161.tsv,298555.0,,33,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus -,Female,Unknown racial group,gDNA,30-34 Years
+P00566.tsv,479880.0,,36,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00093.tsv,545910.0,,06,Non-Hispanic or Latino,HLA-B*15,,Cytomegalovirus -,Female,Caucasian,gDNA,05-09 Years
+P00623.tsv,284817.0,,45,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00386.tsv,0.0,,,Unknown Ethnicity,HLA-B*14,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+Keck0042_MC1.tsv,122226.0,Inactive,19,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Asian or Pacific Islander,gDNA,18-35 Years
+P00203.tsv,103709.0,,49,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus +,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00584.tsv,339229.0,,42,Non-Hispanic or Latino,HLA-B*14,,Cytomegalovirus +,Male,Caucasian,gDNA,40-44 Years
+Keck0114_MC1.tsv,502105.0,Inactive,19,Non-Hispanic or Latino,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,18-35 Years
+P00377.tsv,0.0,,53,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Male,Caucasian,gDNA,50-54 Years
+Keck0074_MC1.tsv,369847.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00368.tsv,330232.0,,29,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus +,Male,Caucasian,gDNA,25-29 Years
+P00404.tsv,424850.0,,17,Non-Hispanic or Latino,HLA-B*70,,Cytomegalovirus -,Female,Caucasian,gDNA,15-19 Years
+P00657.tsv,330204.0,,39,Hispanic or Latino,HLA-B*39,,Cytomegalovirus +,Female,Unknown racial group,gDNA,35-60 Years
+Keck0013_MC1.tsv,265537.0,,23,Non-Hispanic or Latino,,,Cytomegalovirus +,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00587.tsv,277426.0,,22,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,20-24 Years
+P00484.tsv,272133.0,,08,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Female,Caucasian,gDNA,05-09 Years
+P00396.tsv,418529.0,Inactive,65,Non-Hispanic or Latino,HLA-B*07,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,65-69 Years
+P00429.tsv,0.0,,46,Non-Hispanic or Latino,HLA-B*62,,Cytomegalovirus -,Female,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0083_MC1.tsv,466294.0,Inactive,35,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00443.tsv,331344.0,,34,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00278.tsv,268363.0,,23,Non-Hispanic or Latino,HLA-B*40,,Cytomegalovirus +,Female,Asian or Pacific Islander,gDNA,20-24 Years
+Keck0090_MC1.tsv,346271.0,,22,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00058.tsv,414540.0,,,Unknown Ethnicity,HLA-B*39,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00252.tsv,420947.0,Inactive,24,Non-Hispanic or Latino,HLA-B*57,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,20-24 Years
+P00242.tsv,364289.0,,,Unknown Ethnicity,HLA-B*07,,Cytomegalovirus -,Female,Unknown racial group,gDNA,
+Keck0034_MC1.tsv,193483.0,Inactive,21,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+Keck0040_MC1.tsv,182628.0,,32,Non-Hispanic or Latino,,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00313.tsv,375822.0,,32,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+Keck0016_MC1.tsv,143352.0,Inactive,22,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00218.tsv,239072.0,,30,Unknown Ethnicity,HLA-B*57,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00420.tsv,358295.0,,53,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus +,Female,Caucasian,gDNA,50-54 Years
+P00243.tsv,297762.0,,26,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus +,Female,Unknown racial group,gDNA,25-29 Years
+P00519.tsv,122055.0,,28,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus -,Male,Native American or Alaska Native,gDNA,25-29 Years
+P00053.tsv,408903.0,,44,Unknown Ethnicity,,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+Keck0005_MC1.tsv,155916.0,Inactive,24,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+Keck0079_MC1.tsv,335235.0,Inactive,33,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00407.tsv,608528.0,,66,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus +,Male,Caucasian,gDNA,65-69 Years
+P00141.tsv,392693.0,,39,Non-Hispanic or Latino,HLA-B*51,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00097.tsv,115336.0,,24,Unknown Ethnicity,HLA-B*62,,Cytomegalovirus -,Female,Unknown racial group,gDNA,24-45 Years (Middle Adulthood)
+P00439.tsv,0.0,,22,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Female,Caucasian,gDNA,20-24 Years
+P00049.tsv,0.0,,,Unknown Ethnicity,HLA-B*61,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00182.tsv,359303.0,,45,Non-Hispanic or Latino,HLA-B*70,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+Keck0070_MC1.tsv,794743.0,Inactive,23,Non-Hispanic or Latino,,Cohort 3,Cytomegalovirus -,Female,Caucasian,gDNA,24-45 Years (Middle Adulthood)
+P00179.tsv,228066.0,,42,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus +,Female,Unknown racial group,gDNA,40-44 Years
+P00506.tsv,55663.0,,,Unknown Ethnicity,HLA-B*44,,,,Unknown racial group,gDNA,
+P00284.tsv,365846.0,,32,Non-Hispanic or Latino,HLA-B*50,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00285.tsv,150876.0,,35,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Female,Caucasian,gDNA,35-60 Years
+P00381.tsv,248179.0,,34,Non-Hispanic or Latino,HLA-B*49,,Cytomegalovirus +,Female,Caucasian,gDNA,30-34 Years
+P00086.tsv,0.0,,,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus -,Male,Unknown racial group,gDNA,
+P00213.tsv,0.0,,33,Non-Hispanic or Latino,HLA-B*39,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00574.tsv,480002.0,,54,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Female,Caucasian,gDNA,50-54 Years
+P00261.tsv,283925.0,,43,Non-Hispanic or Latino,HLA-B*38,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00398.tsv,652120.0,,44,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,40-44 Years
+P00068.tsv,238912.0,,,Unknown Ethnicity,HLA-B*49,,Cytomegalovirus +,Female,Unknown racial group,gDNA,
+P00369.tsv,0.0,,39,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,35-60 Years
+P00641.tsv,204735.0,,55,Non-Hispanic or Latino,HLA-B*58,,Cytomegalovirus +,Male,Caucasian,gDNA,55-59 Years
+P00205.tsv,164061.0,,33,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Female,Caucasian,gDNA,30-34 Years
+P00631.tsv,195515.0,,09,Non-Hispanic or Latino,HLA-B*42,,Cytomegalovirus +,Female,Caucasian,gDNA,05-09 Years
+P00567.tsv,126494.0,,59,Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Unknown racial group,gDNA,55-59 Years
+P00238.tsv,403294.0,,40,Unknown Ethnicity,HLA-B*08,,Cytomegalovirus +,Male,Unknown racial group,gDNA,40-44 Years
+P00428.tsv,303477.0,Inactive,52,Unknown Ethnicity,HLA-B*35,Cohort 3,Cytomegalovirus -,Male,Unknown racial group,gDNA,50-54 Years
+P00185.tsv,392787.0,,16,Non-Hispanic or Latino,HLA-B*35,,Cytomegalovirus -,Male,Caucasian,gDNA,15-19 Years
+P00008.tsv,0.0,,32,Unknown Ethnicity,HLA-B*27,,Cytomegalovirus -,Male,Unknown racial group,gDNA,30-34 Years
+P00032.tsv,425260.0,,26,Unknown Ethnicity,HLA-B*51,,Cytomegalovirus -,Male,Unknown racial group,gDNA,25-29 Years
+P00559.tsv,0.0,,26,Non-Hispanic or Latino,HLA-B*08,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00230.tsv,491995.0,,29,Non-Hispanic or Latino,HLA-B*60,,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
+P00546.tsv,270841.0,,46,Non-Hispanic or Latino,HLA-B*44,,Cytomegalovirus -,Male,Caucasian,gDNA,45-65 Years (Late Adulthood)
+P00395.tsv,310144.0,,32,Non-Hispanic or Latino,HLA-B*18,,Cytomegalovirus -,Male,Caucasian,gDNA,30-34 Years
+P00654.tsv,400543.0,,58,Non-Hispanic or Latino,HLA-B*57,,Cytomegalovirus -,Female,Caucasian,gDNA,55-59 Years
+P00089.tsv,507887.0,,51,Unknown Ethnicity,HLA-B*55,,Cytomegalovirus +,Male,Unknown racial group,gDNA,50-54 Years
+P00364.tsv,172118.0,,,Unknown Ethnicity,HLA-B*35,,Cytomegalovirus +,Male,Unknown racial group,gDNA,
+P00066.tsv,244627.0,,45,Unknown Ethnicity,HLA-B*44,,Cytomegalovirus -,Female,Unknown racial group,gDNA,45-65 Years (Late Adulthood)
+Keck0094_MC1.tsv,592217.0,Inactive,29,Non-Hispanic or Latino,HLA MHC Class I,Cohort 3,Cytomegalovirus -,Male,Caucasian,gDNA,25-29 Years
