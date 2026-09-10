@@ -13,7 +13,7 @@ their original modification times preserved.
 | `reference_db/McPAS-TCR.csv` | 8.2 MB | McPAS-TCR public download | `analysis/annotation/13` |
 | `reference_db/20250312-TRAIT_search_download.xlsx` | 6.5 MB | TRAIT export, 2025-03-12 | `analysis/annotation/13` |
 | `adv_unique_nojoker.csv` | 7.6 MB | output of script `13` | `analysis/annotation/14` |
-| `vdjdb_trait_onlyB.csv` | 19.8 MB | TRB-only VDJdb+TRAIT export | `notebooks/tcr_correlations.ipynb` |
+| `vdjdb_trait_onlyB.csv` | 19.8 MB | TRB-only VDJdb+TRAIT export | `analysis/annotation/15_merged_overlap_extraction.py` |
 | `merged_overlap_tcrs_wasserstein.csv` | 51.3 MB | notebook output (see below) | downstream correlation analyses |
 | `tcrb_union_TRAIT_VDJdb_McPAS.csv` | 4.3 MB | notebook output | exploratory only |
 | `FINAL_Clinical_Case_Study_Table.csv` | 5.9 MB | clinical metadata table | `analysis/revision/04_clinical_aar_pipeline.py` |
@@ -65,7 +65,8 @@ which still renders byte-identically.
 ```
 data/updated_tcr_age_lists_with_all_significance.csv.gz
   ×  vdjdb_trait_onlyB.csv            (CDR3b + Species/Epitope/TRBV/TRBJ/MHC_A/MHC_B/MHC_class/PMID/Category/Source)
-  └─ notebooks/tcr_correlations.ipynb  cell 183   (rename CDR3b→TCR, inner merge on TCR)
+  └─ analysis/annotation/15_merged_overlap_extraction.py   (was notebook cell 183:
+                                              rename CDR3b→TCR, inner merge on TCR)
       └─ merged_tcr_vdjdb.csv          [NOT SHIPPED — regenerable, see below]
           └─ cells 186 → 187 → 190     (read, drop_duplicates, to_csv)
               └─ merged_overlap_tcrs_wasserstein.csv
@@ -93,10 +94,18 @@ merged.to_csv("merged_tcr_vdjdb.csv", index=False)
 `merged_overlap_tcrs_wasserstein.csv` is then just `merged.drop_duplicates()` —
 25,638 → 17,983 rows, same 38 columns.
 
-> **Note on the notebook.** `notebooks/tcr_correlations.ipynb` also contains an
-> *alternative* recipe for `merged_overlap_tcrs_wasserstein.csv` (the cell right after the
-> "DEAD END" warning). It never produced the shipped file and is kept only for provenance.
-> It is marked in place; do not run it.
+> **Note on the notebook.** The chain above was extracted to
+> `analysis/annotation/15_merged_overlap_extraction.py` on 2026-09-09, verified
+> byte-for-byte against the shipped file, and the notebook was archived outside this
+> repository (`~/Downloads/ttime_archive/tcr_correlations.ipynb`, 389 cells). The notebook
+> also contains an *alternative* recipe for `merged_overlap_tcrs_wasserstein.csv` (the cell
+> right after its "DEAD END" warning); it never produced the shipped file, is marked in
+> place, and was not carried over.
+>
+> **The disk round-trip through `merged_tcr_vdjdb.csv` is load-bearing.** Keeping the frame
+> in memory yields the same table but a different file: pandas' CSV reader does not
+> round-trip floats to nearest, so 342 of the 17,982 rows land one ULP away. The extracted
+> script performs the round-trip by default for exactly this reason.
 
 ## Provenance of these copies
 

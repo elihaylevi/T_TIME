@@ -79,6 +79,24 @@ supplementary deliverables. Run it bare for all of them, or name items for a sub
 > evidence table is in the internal changelog, **archived outside this repository** at
 > `~/Downloads/ttime_archive/docs_internal/CHANGELOG_RESTRUCTURE.md` §13.
 
+A second script also sits outside `run_all.sh`:
+**`analysis/annotation/15_merged_overlap_extraction.py`**, which rebuilds
+`data/external/merged_overlap_tcrs_wasserstein.csv` (lineage B — the epitope join that
+carries `MHC_A`/`MHC_B`/`component_zscore`). It reproduces the shipped file **byte for
+byte** (`sha256 b5794c13…`, 17,982 x 38, 53,751,400 B); `--verify` asserts it.
+
+> **Provenance.** Extracted on 2026-09-09 from `notebooks/tcr_correlations.ipynb`
+> (389 cells) — cells 183 → 186 → 187 → 189. The notebook was archived outside this
+> repository in the same change, alongside its 117 MB with-outputs twin; `notebooks/`
+> no longer exists here.
+>
+> **One trap worth knowing.** The notebook writes a 76.5 MB `merged_tcr_vdjdb.csv` and
+> immediately reads it back, which looks like removable dead weight. It is not: pandas'
+> CSV reader does not round-trip floats to nearest, so skipping the write/read leaves
+> 342 of the 17,982 rows one ULP off and the file no longer matches. The script performs
+> the round-trip by default and deletes the intermediate afterwards; `--no-round-trip`
+> skips it and is documented to fail `--verify`.
+
 The published copies of Supplementary Figures S1-S4 and Tables 1-4 are in
 `results/supplementary/`. All eight regenerate. Tables 1-3 and Figures S1-S4 reproduce
 their original-submission counterparts; **Table 4 is the one exception - it *replaces*
@@ -125,6 +143,7 @@ section for the three cohort URLs.
 | `results/figures/Figure3.pdf` | No producer in the repository — assembled outside it from the panels (a–d from the archived H2O script, e–f from `pipeline/figures_3_4.py`). | **Replaced on 2026-09-09** by the merged a–f version, previously sitting at the repository root as `Figure3_merged_a_to_f.pdf` (321,601 B, `sha256 268635bd…37c558fd8`). The 19,894-byte file it replaced (`sha256 7f1ef7c7…8f57cabed`) was deleted, not archived; a larger, distinct original-submission Figure 3 survives at `~/Downloads/ttime_archive/as_submitted/results/Figure3.pdf` (69,854 B). |
 | diversity baselines (`diversity_ridge`, `diversity_gbm`) | Need the raw TSVs (Tier B). | `baselines.json` omits them; Figure 3e draws three bars instead of five. Values in the archive are carried from the original run. |
 | `vj_usage` | Needs V/J calls from the raw TSVs. | Values carried from the original run. |
+| `notebooks/tcr_correlations.ipynb` | 389 exploratory cells; only the four that build `merged_overlap_tcrs_wasserstein.csv` produced a shipped artefact. | **Extracted and archived (2026-09-09).** Those four are now `analysis/annotation/15_merged_overlap_extraction.py` (Tier A, byte-verified); the notebook moved to `~/Downloads/ttime_archive/`. The other 385 cells are exploratory plotting over that same file and produced nothing that ships. |
 | External MAE 13.5 / R² −0.32 | Computed on `emerson_combined_matrix.csv`, a Tier B output that is not shipped. | See *Known limits* below. |
 | Supplementary Table 4 | **Source found and superseded (2026-09-09).** The shipped table (n=762/16/14/6) was traced to the archived `superseded/Figure2_Age_Prediction_Clinical.py` and reproduced from it exactly: it tabulates only the 56 clinical patients inside the internal test split (55 after that script's sex filter) under the pre-revision `Hypertension`/`Immune System`/`Neuro-Psych` taxonomy, whose flag columns were mis-listed as free-text words. Section 2.5 tests all 244 clinical patients under the canonical taxonomy: n = 66/22/22. | **Regenerated** by `analysis/revision/supplementary_materials.py` (`table4`). The `Healthy Reference` column (n=762, 52.0 [35.0-67.0], 50.9% female) is unchanged; the clinical columns are replaced. Since 2026-09-09 `results/supplementary/tables/Supplementary Table 4.xlsx` **is** this script's output (762/66/22/22); the original-submission file was retired **outside this repository**, to `~/Downloads/ttime_archive/docs_internal/archive/supplementary_table4_original_submission.xlsx`. |
 

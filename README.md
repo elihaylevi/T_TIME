@@ -18,7 +18,7 @@ This repository contains the complete analysis pipeline, from raw repertoire fil
 | `analysis/revision/` | Revision-round analyses: retraining, zero-shot recalibration, sex gap, clinical AAR |
 | `analysis/annotation/` | Epitope harmonisation (13), age alignment (14), Figure 4 landscape |
 | `results/supplementary/` | Manuscript Supplementary Figures S1–S4 and Tables 1–4 |
-| `notebooks/` | `tcr_correlations.ipynb` — outputs stripped; see `data/external/README.md` |
+| `analysis/annotation/15_merged_overlap_extraction.py` | Rebuilds `data/external/merged_overlap_tcrs_wasserstein.csv` (lineage B, the MHC-carrying epitope join). Replaces the former `notebooks/tcr_correlations.ipynb`, archived outside this repository on 2026-09-09 |
 | `data/` | Processed feature matrices and age-associated clonotype scores (see below) |
 | `data/external/` | Inputs not produced by `pipeline/` — reference DBs, annotation intermediates |
 | `metadata/` | Sample metadata (sample → age / sex / cohort) |
