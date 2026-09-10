@@ -997,9 +997,17 @@ def generate_table4():
     OUTPUT
       - Supp_Table_4_cohort_summary.csv, in the working directory
 
-      The published copies of that same table, both refreshed from this code on 2026-09-09:
-      - results/supplementary/tables/Supplementary Table 4.xlsx  (+ .csv)
-      - ~/Desktop/T_TIME/supplementary/tables/Supplementary Table 4.xlsx  (+ .csv)
+      The published copy of that same table, refreshed from this code on 2026-09-09:
+      - results/supplementary/tables/Supplementary Table 4.xlsx
+
+      XLSX only, matching Supplementary Tables 1-3. A `.csv` sidecar shipped alongside it
+      until 2026-09-10 and was removed as a duplicate: identical data, no reference
+      anywhere, and no sibling table had one. The CSV this function writes to the working
+      directory is unaffected - that is the script's own output, not a shipped artefact.
+
+      A separate mirror exists outside the repository at
+      ~/Desktop/T_TIME/supplementary/tables/ and is maintained by hand; it still carries
+      both formats.
     """
     out = "Supp_Table_4_cohort_summary.csv"
 
